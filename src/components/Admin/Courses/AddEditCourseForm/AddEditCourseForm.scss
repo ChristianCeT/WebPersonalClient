@@ -1,0 +1,19 @@
+@import "../../../../scss/index.scss";
+
+.add-edit-course-form {
+  text-align: center;
+
+  .ant-form-item {
+    margin-top: 5px;
+    margin-bottom: 8px;
+
+    .anticon {
+      color: rgba(0, 0, 0, 0.25);
+    }
+  }
+
+  .btn-submit {
+    width: 100%;
+    border-radius: 10px;
+  }
+}
